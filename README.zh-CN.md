@@ -5,13 +5,13 @@
 [English](README.md) | **简体中文**
 
 [![License](https://img.shields.io/github/license/icrefin/dsh-prompt-recall?style=flat-square)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/icrefin/dsh-prompt-recall?style=flat-square)](https://github.com/icrefin/dsh-prompt-recall/releases/tag/v0.1.3)
+[![Release](https://img.shields.io/github/v/release/icrefin/dsh-prompt-recall?style=flat-square)](https://github.com/icrefin/dsh-prompt-recall/releases/tag/v0.1.4)
 [![CI](https://img.shields.io/github/actions/workflow/status/icrefin/dsh-prompt-recall/ci.yml?branch=main&style=flat-square)](https://github.com/icrefin/dsh-prompt-recall/actions/workflows/ci.yml)
 [![Last commit](https://img.shields.io/github/last-commit/icrefin/dsh-prompt-recall?style=flat-square)](https://github.com/icrefin/dsh-prompt-recall/commits/main)
 [![Stars](https://img.shields.io/github/stars/icrefin/dsh-prompt-recall?style=flat-square)](https://github.com/icrefin/dsh-prompt-recall/stargazers)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/icrefin/dsh-prompt-recall/pulls)
-[![Node](https://img.shields.io/badge/node-%3E%3D22.17-339933?style=flat-square&logo=node.js)](https://nodejs.org)
-[![dsh](https://img.shields.io/badge/dsh-0.2.1--rc.5-4B5563?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
+[![Node](https://img.shields.io/badge/node-%3E%3D24.9-339933?style=flat-square&logo=node.js)](https://nodejs.org)
+[![dsh](https://img.shields.io/badge/dsh-0.2.2--rc.1-4B5563?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
 
 ## 它解决的场景
 
@@ -162,7 +162,7 @@ tools/
 桌面 profile 由 Electron 应用持有，请通过 **设置 → 插件**（或 `plugin_manager` 工具）安装，路径为：
 
 ```
-dsh-prompt-recall/dist/dsh-prompt-recall-0.1.2.tgz
+dsh-prompt-recall/dist/dsh-prompt-recall-0.1.4.tgz
 ```
 
 ```sh
