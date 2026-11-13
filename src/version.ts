@@ -9,7 +9,7 @@
  */
 
 /** Package version, mirrored from `package.json`. */
-export const VERSION = '0.1.4'
+export const VERSION = '0.1.5'
 
 /** Literal author credit required beside the version chip. */
 export const AUTHOR = 'icrefin [icrefinai@gmail.com]'
